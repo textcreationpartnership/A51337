@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A more full and exact account of that most dreadful fire which happened at Wapping on Sunday night the nineteenth of this instant Novemb. between 10 and 11 a clock also a true and full account of the damages sustained by that dreadful fire whilst it continued burning all day on Monday : with a true account as near as can yet be given, of the manner of its first beginning, the number of houses burnt down, and of the number of persons that have perished in the raging flames.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51337</idno>
+            <idno type="STC">Wing M2700A</idno>
+            <idno type="STC">ESTC R16383</idno>
+            <idno type="EEBO-CITATION">13033116</idno>
+            <idno type="OCLC">ocm 13033116</idno>
+            <idno type="VID">96782</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51337)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96782)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 745:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A more full and exact account of that most dreadful fire which happened at Wapping on Sunday night the nineteenth of this instant Novemb. between 10 and 11 a clock also a true and full account of the damages sustained by that dreadful fire whilst it continued burning all day on Monday : with a true account as near as can yet be given, of the manner of its first beginning, the number of houses burnt down, and of the number of persons that have perished in the raging flames.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wapping (London, England) --  Fire, 1682.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:96782:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>A More full and exact ACCOUNT Of that moſt dreadful Fire, Which happened at WAPPING On Sunday Night the nineteenth of this inſtant <hi>Novemb.</hi> between 10 and 11 a clock</head>
+            <argument>
+               <p>Alſo a True and full Account of the damages ſuſtained by that dreadful fire whilſt it continued burning all day on Munday.</p>
+               <p>With a true Account as near as can yet be given, of the manner of its firſt beginning, the number of houſes burnt down, and of the number of per<g ref="char:EOLhyphen"/>ſons that have periſhed in the raging Flames.</p>
+            </argument>
+            <p>LAſt Night being the 19th of <hi>November,</hi> a dreadful Fire hap<g ref="char:EOLhyphen"/>pened at the houſe of one Captain, <hi>Allen,</hi> a Sea-Captain, Living in <hi>Cinamon</hi>-Lane near <hi>Whapping,</hi> through the negli<g ref="char:EOLhyphen"/>ligence of an idle Fellow, by Profeſſion a <hi>Sawyer,</hi> who Lodg<g ref="char:EOLhyphen"/>ed in a Garret of the ſaid Houſe, he coming home drunk, being care<g ref="char:EOLhyphen"/>leſs of his Candle, it fell amongſt ſome Shavings, and immedi<g ref="char:EOLhyphen"/>ately faſtned upon the Boards and conſumed that Houſe, and altho it was immediately diſcovered and help coming in, yet the wind
+<pb n="2" facs="tcp:96782:2"/>
+               <!-- PDF PAGE 14 -->being at South-Weſt and blowing ſo violently the Engines could not Play with any ſucceſs; but the Engineers we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not wanting in their Induſtry, but had taken ſo much pains, that ſeven or eight were broke in the Service. The Fire growing Vigorous, it faſtned upon a new Ship upon the Stocks, in Sir <hi>William War<g ref="char:EOLhyphen"/>rens</hi> Yard. The Labouring men not knowing how to ſuppreſs the fury of the Flames, bored holes thorow her, and it being then high-water, ſunk her; by which means ſhe was preſerved.</p>
+            <p>His Grace, the Duke of <hi>Albermarle</hi> and the Earl of <hi>Craven</hi> came thither this morning about two of the Clock, and ordered the blowing up of ſeveral Houſes to prevent its further Progreſs, but all that they could do though aſſiſted by a number of peo<g ref="char:EOLhyphen"/>ple, proved very ineffectual, the Fire flaming with that impetu<g ref="char:EOLhyphen"/>oſity, that no Art could ſtop it, in the ſeveral Attempts to blow up Houſes, ſeveral poor Creatures periſhed in the Ruines, many ſay nine, but moſt ſay ſeven periſhed altogether in one Houſe.</p>
+            <p>It is reported that the Lady <hi>Ivye</hi> living in <hi>Gravel</hi>-Lane is em<g ref="char:EOLhyphen"/>damaged ſome hundreds of pounds <hi>Per Annum,</hi> Sir <hi>William Warnem</hi> ovvned the moſt part of <hi>Cinamon-Lane,</hi> but thanks to the inſuring Office he is like to redeem ſatisfaction for 500 <abbr>
+                  <hi>l</hi>
+               </abbr> 
+               <hi>Per Annum.</hi> It is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>lieved that there are at leaſt ſix or ſeven hundred houſes burned to the Ground, it being a Mile in Compaſs, and it is to be ſeared it will do more conſiderable damage, it being not it Extinguiſhed at 12 a Clock, but flaming then with an unreſiſted force. This is as full an Account as can at preſent be given.</p>
+            <p>The damage done by water was very inconſiderable, a <hi>Pink</hi> of a ſmall value being only conſumed, but the loſs by houſes and houſhold<g ref="char:EOLhyphen"/>ſtuff in a ſmall time cannot be computed. Thus we ſee vvhat vaſt Treaſures may be devoured in a Moment of time, through the Negli<g ref="char:EOLhyphen"/>gence of one careleſs man. One vvould think the many Fires that have been, might put every man upon a more then ordinary Watch<g ref="char:EOLhyphen"/>fulneſs. But alas! hovv ſcon are thoſe avvakenning Judgments for<g ref="char:EOLhyphen"/>gotten; a Month hence poſſibly this Fire vvill be ſo little in the thoughts of ſome as if it had never been, thoſe that are the leaſt ſufferers vvill be ſconeſt apt to forget it. But the Lord knovvs hovv ſuddainly thoſe that are novv ſafe may be ſmitten vvith the ſame Rod. All are con<g ref="char:EOLhyphen"/>cerned to be very Circumſpect and careful, leaſt the ſame or ſuch like unhappy Judgment ſurprizes them in their ſecurity. Novv the In<g ref="char:EOLhyphen"/>habitants of <hi>Wapping</hi> are viſited by a ſevere affliction, vvho knovvs in hovv litle time; others that think themſelves ſecure, may be involved in the ſame diſeaſe, vvhich the Lord of his infinite mercy, preſerve our flouriſhing City, not only from the Malice, Envy, and Subtilty of the Papiſt, but from a ſupine Negligence and Security.</p>
+            <pb n="3" facs="tcp:96782:2"/>
+            <!-- PDF PAGE 14 -->
+         </div>
+         <div type="account">
+            <head>This is the True Account as near as can be given, of the damages ſuſtained by this moſt dreadful Fire, whilſt it continued burning all day on Munday the 20th of this Iſtant till Night.</head>
+            <p>
+               <hi>Tueſday November</hi> the 22d. A more fully Relation of the Dreadful Fire at <hi>Wapping, viz.</hi> On <hi>Munday</hi> Night, between Eight and Nine of the Clock it was ſomething abated and about twelve wholly Extinguiſhed; the number of Houſes, as near as can be Computed to be Conſumed are 2000 a<g ref="char:EOLhyphen"/>mongſt which were two or three hundred blown up and we here in the Execution thereof about 40 Perſons were killed, beſides others very much bruiſed and wounded to the number of 60 or upward. But at preſent, we cannot hear, but that only an old woman periſhed in the flames; who through her Age and weakneſs was uncapable of ſhift<g ref="char:EOLhyphen"/>ing for her ſelf. Great was the care and diligence of Sir <hi>John Wetwang</hi> in this unhappy Accident, who being owner of the Ship that is building in Sir <hi>William Warrens</hi> Yard, ſhe being of ſeven hundred Tuns burthen, and if conſumed the loſs thereof would have been 6 or 7000 <abbr>
+                  <hi>l</hi>
+               </abbr> But by his di<g ref="char:EOLhyphen"/>ligence, in entering the Ship firſt him<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf, and diſtributing twenty Guinies to ſome Seamen and others, they by their induſtrious labour and Sir. <hi>Johns</hi> heartning them up preſer<g ref="char:EOLhyphen"/>ved her, which if had been fired would have done very con<g ref="char:EOLhyphen"/>ſiderable damage to ſeveral houſes adjacent; amongſt the houſes that were conſumed, the chiefeſt were Sir <hi>William Warrens,</hi> one Mr. <hi>Hoopers,</hi> Mr. <hi>Wilſons</hi> Mr. <hi>Haines,</hi> and Mr. <hi>Jacksons,</hi> who all kept conſiderable <hi>Deal-Yards.</hi> And one Mr. <hi>Grinbals</hi> having a <hi>Maſt-Yard</hi> ſuſtained great loſs there<g ref="char:EOLhyphen"/>by, to the value of ſeveral hundreds of pounds. Alſo one Mr. <hi>Bond</hi> a Brewer his houſe was burnt and loſt ſeveral hun<g ref="char:EOLhyphen"/>dred pounds being then a Brewing, beſides vaſt quanti<g ref="char:EOLhyphen"/>ties of Buts of <hi>Beer</hi> were deſtroyed in ſeveral <hi>Ale</hi>-Houſes.</p>
+            <p>Beſides theſe perſons of note, were divers Shopkeepers of all Trades, whoſe goods and wares were all conſumed; only ſome ſew goods which ſome ſaved in <hi>Shadwel</hi> Church; o<g ref="char:EOLhyphen"/>thers being in great conſternation delivered their goods to ſeveral perſons whom they know not, amongſt whom ſome were ſo honeſt as to deliver the ſame and others never to return what they received.</p>
+            <pb n="4" facs="tcp:96782:3"/>
+            <!-- PDF PAGE 15 -->
+            <p>Several perſons who were burnt out, were forced to lie in the neighbouring Field all night, who two nights before had good Ha<g ref="char:EOLhyphen"/>bitations to Reſide in.</p>
+            <p>The Fire ended near <hi>Shadivel</hi>-Dock, having burnt a mile in length and a quarter in breadth.</p>
+            <p>We cannot underſtand any farther damage was done by water, on<g ref="char:EOLhyphen"/>ly a Fly-Boat took Fire, but by the induſtry of the men belonging to her ſhe was ſaved, having received ſome ſmall damage.</p>
+            <p>We further hear, that a diſtiller had ſeveral pieces of Brandy ſtaved for ſear if they ſhould have taken fire, it might have done conſiderable damage.</p>
+            <p>My Lord Mayor and the two Sheriffs were not wanting to aid and aſſiſt what they could, there was likewiſe a Company or two of the Train'd-Bands, and ſeveral Barrels of Gunpowder was brought from the <hi>Tower,</hi> and other places, in Order to blowing up of hou<g ref="char:EOLhyphen"/>ſes, and there were ſome baſe Villains that were ſo Impudent atto ſteal and carry away two Barrels of the Powder, But being taken in the Fact, were committed, and muſt anſwer for the ſame.</p>
+            <p>And this is the trueſt Account that hath been hither to publiſhed</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed, by <hi>D. Mallet,</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
